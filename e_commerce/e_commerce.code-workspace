@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ecom",
+			"path": "../ecom"
+		}
+	],
+	"settings": {}
+}
